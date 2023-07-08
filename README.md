@@ -2,7 +2,7 @@
 
 Website link: [chiguichon.me](chiguichon.me)
 
-![Portfolio JPG](https://#)
+![Portfolio JPG](https://github.com/CarlosChiguichon/personal-website/blob/main/src/assets/Screenshot%20from%202023-07-08%2000-17-53.png)
 
 ## How to deploy?
 
